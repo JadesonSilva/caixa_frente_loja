@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+
+.login{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.login_apresentacao_bemvindo{
+    padding: 5px 5px;
+}
+.login_apresentacao_aviso{
+    padding: 5px 5px;
+}
+
+.login_caixa{
+    padding: 5px 5px;
+}
+
+.login_caixa_user{
+    padding: 5px 5px;
+}
+.login_caixa_senha{
+    margin-top: 5px;
+    padding: 5px 5px;
+}
+.login_caixa_senha{
+    padding: 5px 5px;
+}
+
+.login_caixa_button{
+    padding: 5px 5px;
+    margin-top: 5px;
+}
